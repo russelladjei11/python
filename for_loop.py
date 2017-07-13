@@ -1,3 +1,4 @@
+#for loops 
 for j in range(0,19,2):
 	print j,
 	
