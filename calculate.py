@@ -1,5 +1,5 @@
 
-#Defines the function 'calculate'
+#Defines the function 'calculate' by using the math operators
 
 def calculate(task, num1, num2):
         if task == 'add':
