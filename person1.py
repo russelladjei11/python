@@ -1,3 +1,4 @@
+# A fuction to define a persons name and age
 def get_age():
     age = (int)(raw_input("what is your age?"))
     return age
