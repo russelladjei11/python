@@ -1,3 +1,6 @@
+
+#Defines the function 'calculate'
+
 def calculate(task, num1, num2):
         if task == 'add':
                 return num1 + num2
